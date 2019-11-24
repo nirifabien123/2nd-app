@@ -1,0 +1,11 @@
+C:\Users\Positivo user\RiderProjects\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.0\SalaryCalculator.exe
+C:\Users\Positivo user\RiderProjects\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.0\SalaryCalculator.deps.json
+C:\Users\Positivo user\RiderProjects\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.0\SalaryCalculator.runtimeconfig.json
+C:\Users\Positivo user\RiderProjects\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.0\SalaryCalculator.runtimeconfig.dev.json
+C:\Users\Positivo user\RiderProjects\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.0\SalaryCalculator.dll
+C:\Users\Positivo user\RiderProjects\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.0\SalaryCalculator.pdb
+C:\Users\Positivo user\RiderProjects\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.0\SalaryCalculator.csprojAssemblyReference.cache
+C:\Users\Positivo user\RiderProjects\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.0\SalaryCalculator.AssemblyInfoInputs.cache
+C:\Users\Positivo user\RiderProjects\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.0\SalaryCalculator.AssemblyInfo.cs
+C:\Users\Positivo user\RiderProjects\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.0\SalaryCalculator.dll
+C:\Users\Positivo user\RiderProjects\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.0\SalaryCalculator.pdb
